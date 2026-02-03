@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.gifer.com/YKpv.gif" alt="Hi GIF" width="300"/>
+</p>
 <h1 align="center">Hi 👋, I'm Morvain</h1>
 <h3 align="center">Frontend Developer (React / Next.js)</h3>
 
