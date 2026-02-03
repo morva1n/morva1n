@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/3D2a.gif" alt="Hi GIF" width="1100"/>
+  <img src="https://i.gifer.com/xK.gif" alt="Hi GIF" width="1100"/>
 </p>
 <h1 align="center">Hi 👋, I'm Morvain</h1>
 <h3 align="center">Frontend Developer (React / Next.js)</h3>
